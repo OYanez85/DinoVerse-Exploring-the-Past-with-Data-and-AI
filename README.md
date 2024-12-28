@@ -82,8 +82,8 @@ Bar plot highlighting the most important features for predicting dinosaur types.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Creative Commons License.
 
 ## Author
 
-[Your Name] - [Your GitHub Profile Link]
+[Oscar Yanez-Feijoo] - [(https://github.com/OYanez85)]
